@@ -45,7 +45,7 @@ Glucose (C₆H₁₂O₆), the most common monosaccharide, is of central importa
 
 ![](img/05/six-carbon-sugars.png)
 
-Depending on the location of the carbonyl group, a sugar is either an aldose (aldehyde sugar) or a ketose (ketone sugar). Glucode is an aldose, fructose is a ketose.
+Depending on the location of the carbonyl group, a sugar is either an aldose (aldehyde sugar) or a ketose (ketone sugar). Glucose is an aldose, fructose is a ketose.
 
 Still another source of diversity is the spacial arrangement of a molecule. Glucose and galactose, for example, differ only in the placement of parts around one assymetric carbon. What seems like a small difference is significant enough to give the two sugars distinctive shapes and binding activities, thus different behaviors.
 
