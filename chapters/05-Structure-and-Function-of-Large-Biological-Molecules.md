@@ -97,11 +97,11 @@ Animals store a polysaccharide called **glycogen** that is extensively branched.
 #### Structural Polysaccharides
 Organisms build strong materials from structural polysaccharides.
 
-**Cellulose** is a major component of the tough walls that enclose plant cells. It is the most abundant organic compoung on Earth.
+**Cellulose** is a major component of the tough walls that enclose plant cells. It is the most abundant organic compound on Earth.
 
 Like starch, cellulose is a polymer of glucose, but made of β-Glucose (a different arrangement of a ring: the hydroxyl group attaches to number 1 carbon above, not below, the plane of the ring).
 
-The different lankage makes cellulose molecules straight, unlike helilcal starch. Cellulose is never branched, and some hydroxyl groups are free to H-bond twith those of other cellulose molecules lying parallel to it.
+The different linkage makes cellulose molecules straight, unlike helilcal starch. Cellulose is never branched, and some hydroxyl groups are free to H-bond twith those of other cellulose molecules lying parallel to it.
 
 In plant cell walls, parallel cellulose molecules held together in this way are grouped into units called microfibris. These cable-like microfibrils are a strong building material for plants.
 
